@@ -37,7 +37,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb,redis,ts,react,nextjs,tailwind,threejs,aws,docker,nginx,githubactions,cloudflare,stripe,ai&perline=9" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb,redis,ts,react,nextjs,tailwind,threejs,materialui,aws,docker,nginx,githubactions,cloudflare,git&perline=9" alt="My Tech Stack" />
 </a>
 
 </div>
